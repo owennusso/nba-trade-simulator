@@ -1,11 +1,11 @@
-# 🏀 NBA Trade Simulator
+# NBA Trade Simulator
 
 A full‑stack demo project that simulates NBA trades between teams.  
 Built with **TypeScript + Express (backend)** and **React + Vite (frontend)**.
 
 ---
 
-## ✨ Features
+## Features
 - Trade **players** and **draft picks** between two teams
 - Simple grading system (A–D) based on net gain and fairness
 - Transaction‑style summaries: *“Lakers receive Jayson Tatum and a 2025 Round 1 pick”*
@@ -14,7 +14,7 @@ Built with **TypeScript + Express (backend)** and **React + Vite (frontend)**.
 - Example rosters included in `backend/sampleRoster.json`
 
 ---
-
+```
 ## 📂 Project Structure
 nba-trade-simulator/ 
 ├── backend/ │ 
@@ -31,17 +31,17 @@ nba-trade-simulator/
 ├── tsconfig.json 
 ├── .gitignore 
 └── README.md
-
+```
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install dependencies
 npm install
 
 ### 2. Run backend (Express API)
 npm run dev
-- Backend runs at: http://localhost: 3000
+- Backend runs at: http://localhost:3000
 
 ### 3. Run frontend (React + Vite)
 npm run frontend
