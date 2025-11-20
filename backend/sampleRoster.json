@@ -1,0 +1,30 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Lakers",
+      "roster": [
+        { "id": 1, "name": "LeBron James", "salary": 40, "value": 95 },
+        { "id": 2, "name": "Anthony Davis", "salary": 35, "value": 90 },
+        { "id": 3, "name": "Austin Reaves", "salary": 12, "value": 70 }
+      ],
+      "picks": [
+        { "round": 1, "year": 2026, "value": 20 },
+        { "round": 2, "year": 2027, "value": 10 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Celtics",
+      "roster": [
+        { "id": 4, "name": "Jayson Tatum", "salary": 32, "value": 90 },
+        { "id": 5, "name": "Jaylen Brown", "salary": 30, "value": 88 },
+        { "id": 6, "name": "Derrick White", "salary": 15, "value": 75 }
+      ],
+      "picks": [
+        { "round": 1, "year": 2025, "value": 18 },
+        { "round": 2, "year": 2026, "value": 8 }
+      ]
+    }
+  ]
+}
